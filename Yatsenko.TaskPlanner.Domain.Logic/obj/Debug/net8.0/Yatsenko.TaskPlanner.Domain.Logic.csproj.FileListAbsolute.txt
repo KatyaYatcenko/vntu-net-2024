@@ -1,0 +1,15 @@
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.deps.json
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.4EF8C8BF.Up2Date
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Yatsenko.TaskPlanner.Domain.Logic.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Yatsenko.TaskPlanner.Domain.Logic.dll

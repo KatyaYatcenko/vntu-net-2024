@@ -1,0 +1,11 @@
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.deps.json
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Yatsenko.TaskPlanner.Domain.Models.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Yatsenko.TaskPlanner.Domain.Models.dll

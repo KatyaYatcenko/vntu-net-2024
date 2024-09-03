@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yatsenko.TaskPlanner.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f39e4257de59960bfb74eea75c7e22e67813a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3539dd74b6b2cc153160a664524daedca5b7e5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yatsenko.TaskPlanner.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yatsenko.TaskPlanner.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

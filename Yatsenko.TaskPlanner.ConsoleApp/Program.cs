@@ -34,7 +34,7 @@ internal static class Program
                     BuildPlan();
                     break;
                 case "M":
-                    MarkWorkItemAsCompleted();
+                    MarkItemAsCompleted();
                     break;
                 case "R":
                     RemoveWorkItem();
@@ -101,7 +101,7 @@ internal static class Program
         }
     }
 
-    private static void MarkWorkItemAsCompleted()
+    private static void MarkItemAsCompleted()
     {
         Console.Write("Enter the ID of the work item to mark as completed: ");
         Guid id = Guid.Parse(Console.ReadLine());

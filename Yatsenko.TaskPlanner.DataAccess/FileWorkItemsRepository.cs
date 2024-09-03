@@ -28,6 +28,10 @@ namespace Yatsenko.TaskPlanner.DataAccess
                     }
                 }
             }
+            else
+            {
+                File.WriteAllText(FileName, "[]");
+            }
         }
 
         public Guid Add(WorkItem workItem)
@@ -56,9 +60,17 @@ namespace Yatsenko.TaskPlanner.DataAccess
 
         public void SaveChanges()
         {
-            var workItemsArray = _workItems.Values.ToArray();
-            var json = JsonConvert.SerializeObject(workItemsArray, Formatting.Indented);
-            File.WriteAllText(FileName, json);
+            try
+            {
+                var workItemsArray = _workItems.Values.ToArray();
+                var json = JsonConvert.SerializeObject(workItemsArray, Formatting.Indented);
+                File.WriteAllText(FileName, json);
+                Console.WriteLine("Changes saved to file.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error saving changes: {ex.Message}");
+            }
         }
     }
 }

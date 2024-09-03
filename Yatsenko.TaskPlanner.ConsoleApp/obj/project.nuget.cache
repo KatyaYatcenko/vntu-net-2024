@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gD1u4O0zDPw=",
+  "dgSpecHash": "/gWXoWXj7S4=",
   "success": true,
   "projectFilePath": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.ConsoleApp\\Yatsenko.TaskPlanner.ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pidts\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

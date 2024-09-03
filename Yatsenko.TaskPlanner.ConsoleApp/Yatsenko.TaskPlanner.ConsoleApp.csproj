@@ -8,6 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Yatsenko.TaskPlanner.DataAccess">
+      <HintPath>..\Yatsenko.TaskPlanner.DataAccess\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Yatsenko.TaskPlanner.DataAccess.Abstractions">
+      <HintPath>..\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="Yatsenko.TaskPlanner.Domain.Logic">
       <HintPath>..\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.dll</HintPath>
     </Reference>

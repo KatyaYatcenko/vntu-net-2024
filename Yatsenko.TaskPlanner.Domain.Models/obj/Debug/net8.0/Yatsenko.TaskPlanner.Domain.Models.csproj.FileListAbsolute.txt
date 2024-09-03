@@ -9,3 +9,4 @@ C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Mode
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Yatsenko.TaskPlanner.Domain.Models.dll
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.pdb
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Yatsenko.TaskPlanner.Domain.Models.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Models\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.sourcelink.json

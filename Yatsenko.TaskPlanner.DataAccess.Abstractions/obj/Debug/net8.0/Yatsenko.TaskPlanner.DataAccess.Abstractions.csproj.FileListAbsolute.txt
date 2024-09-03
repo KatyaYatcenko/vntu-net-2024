@@ -1,0 +1,16 @@
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.sourcelink.json
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.358E130A.Up2Date
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\refint\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\ref\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll

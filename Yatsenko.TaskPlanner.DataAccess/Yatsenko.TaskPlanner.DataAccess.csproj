@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Yatsenko.TaskPlanner.DataAccess.Abstractions">
+      <HintPath>..\Yatsenko.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Yatsenko.TaskPlanner.Domain.Models">
+      <HintPath>..\Yatsenko.TaskPlanner.Domain.Models\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

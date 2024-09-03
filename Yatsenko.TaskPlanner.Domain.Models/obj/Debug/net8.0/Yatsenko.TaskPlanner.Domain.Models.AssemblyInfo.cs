@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yatsenko.TaskPlanner.Domain.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f39e4257de59960bfb74eea75c7e22e67813a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yatsenko.TaskPlanner.Domain.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yatsenko.TaskPlanner.Domain.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

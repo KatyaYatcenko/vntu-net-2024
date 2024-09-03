@@ -18,3 +18,9 @@ C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\obj\Debug\net8.0\Yatsenko.TaskPlanner.ConsoleApp.pdb
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\obj\Debug\net8.0\Yatsenko.TaskPlanner.ConsoleApp.genruntimeconfig.cache
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\obj\Debug\net8.0\ref\Yatsenko.TaskPlanner.ConsoleApp.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\obj\Debug\net8.0\Yatsenko.TaskPlanner.ConsoleApp.sourcelink.json
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll

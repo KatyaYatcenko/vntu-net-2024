@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE54-B383-4431-BCD4-3973BB96CE99}|Yatsenko.TaskPlanner.Domain.Models.csproj|c:\\users\\pidts\\onedrive\\documents\\vntu-net-2024\\yatsenko.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95CDE54-B383-4431-BCD4-3973BB96CE99}|Yatsenko.TaskPlanner.Domain.Models.csproj|solutionrelative:workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C95CDE54-B383-4431-BCD4-3973BB96CE99}|Yatsenko.TaskPlanner.Domain.Models.csproj|c:\\users\\pidts\\onedrive\\documents\\vntu-net-2024\\yatsenko.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C95CDE54-B383-4431-BCD4-3973BB96CE99}|Yatsenko.TaskPlanner.Domain.Models.csproj|solutionrelative:enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,45 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Complexity.cs",
               "DocumentMoniker": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
               "RelativeDocumentMoniker": "Enums\\Complexity.cs",
               "ToolTip": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
               "RelativeToolTip": "Enums\\Complexity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T21:17:09.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T21:17:09.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Priority.cs",
               "DocumentMoniker": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
               "RelativeDocumentMoniker": "Enums\\Priority.cs",
               "ToolTip": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
               "RelativeToolTip": "Enums\\Priority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T21:16:14.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WorkItem.cs",
-              "DocumentMoniker": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "RelativeDocumentMoniker": "WorkItem.cs",
-              "ToolTip": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "RelativeToolTip": "WorkItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T21:12:08.688Z",
-              "EditorCaption": ""
             }
           ]
         }

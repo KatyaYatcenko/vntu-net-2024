@@ -13,6 +13,9 @@ namespace Yatsenko.TaskPlanner.Domain.Models
         public string Description { get; set; }
         public bool IsCompleted { get; set; }
 
+        public Guid Id { get; set; }
+
+
         public override string ToString()
         {
             string formattedDate = DueDate.ToString("dd.MM.yyyy", CultureInfo.InvariantCulture);
@@ -20,5 +23,21 @@ namespace Yatsenko.TaskPlanner.Domain.Models
 
             return $"{Title}: due {formattedDate}, {priorityString} priority";
         }
+
+        public WorkItem Clone()
+        {
+            return new WorkItem
+            {
+                Id = Guid.NewGuid(),
+                CreationDate = this.CreationDate,
+                DueDate = this.DueDate,
+                Priority = this.Priority,
+                Complexity = this.Complexity,
+                Title = this.Title,
+                Description = this.Description,
+                IsCompleted = this.IsCompleted
+            };
+        }
+
     }
 }

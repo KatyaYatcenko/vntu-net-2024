@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Yatsenko.TaskPlanner.DataAccess.Abstractions\Yatsenko.TaskPlanner.DataAccess.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Yatsenko.TaskPlanner.Domain.Models">
       <HintPath>..\Yatsenko.TaskPlanner.Domain.Models\bin\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Models.dll</HintPath>
     </Reference>

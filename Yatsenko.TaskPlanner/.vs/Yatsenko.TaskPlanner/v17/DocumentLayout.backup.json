@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894F8E28-0081-4CD7-8E06-FF2D91CCBA52}|..\\Yatsenko.TaskPlanner.Domain.Logic\\Yatsenko.TaskPlanner.Domain.Logic.csproj|c:\\users\\pidts\\onedrive\\documents\\vntu-net-2024\\yatsenko.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C06223-92B9-49FD-AF21-38A1A16DDECD}|..\\Yatsenko.TaskPlanner.ConsoleApp\\Yatsenko.TaskPlanner.ConsoleApp.csproj|c:\\users\\pidts\\onedrive\\documents\\vntu-net-2024\\yatsenko.taskplanner.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "..\\Yatsenko.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "..\\Yatsenko.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:21:27.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Yatsenko.TaskPlanner.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pidts\\OneDrive\\Documents\\vntu-net-2024\\Yatsenko.TaskPlanner.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\Yatsenko.TaskPlanner.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:21:32.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

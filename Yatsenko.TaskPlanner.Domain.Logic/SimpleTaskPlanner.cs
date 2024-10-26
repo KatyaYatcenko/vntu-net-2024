@@ -1,16 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Yatsenko.TaskPlanner.DataAccess.Abstractions;
 using Yatsenko.TaskPlanner.Domain.Models;
 
 namespace Yatsenko.TaskPlanner.Domain.Logic
 {
     public class SimpleTaskPlanner
     {
-        public WorkItem[] CreatePlan(WorkItem[] workItems)
+        private readonly IWorkItemsRepository _workItemsRepository;
+
+        public SimpleTaskPlanner(IWorkItemsRepository workItemsRepository)
         {
+            _workItemsRepository = workItemsRepository ?? throw new ArgumentNullException(nameof(workItemsRepository));
+        }
+
+        public WorkItem[] CreatePlan()
+        {
+            WorkItem[] workItems = _workItemsRepository.GetAll();
+
             if (workItems == null || workItems.Length == 0)
             {
                 return Array.Empty<WorkItem>();

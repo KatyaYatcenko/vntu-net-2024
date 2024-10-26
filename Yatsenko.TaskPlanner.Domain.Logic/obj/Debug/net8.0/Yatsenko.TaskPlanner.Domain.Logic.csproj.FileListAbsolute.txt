@@ -13,3 +13,6 @@ C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logi
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Yatsenko.TaskPlanner.Domain.Logic.dll
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.pdb
 C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Yatsenko.TaskPlanner.Domain.Logic.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Yatsenko.TaskPlanner.Domain.Logic.sourcelink.json
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\pidts\OneDrive\Documents\vntu-net-2024\Yatsenko.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Yatsenko.TaskPlanner.DataAccess.Abstractions.pdb

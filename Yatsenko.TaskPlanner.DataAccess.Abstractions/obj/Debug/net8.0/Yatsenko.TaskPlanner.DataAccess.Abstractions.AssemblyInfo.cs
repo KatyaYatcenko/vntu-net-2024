@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yatsenko.TaskPlanner.DataAccess.Abstractions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f39e4257de59960bfb74eea75c7e22e67813a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5043ab8a12a9257d1d233ae63ec1a0b5ccad6d2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yatsenko.TaskPlanner.DataAccess.Abstractions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yatsenko.TaskPlanner.DataAccess.Abstractions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
